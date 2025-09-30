@@ -1,7 +1,7 @@
 #1. variables & data types
-name = "om"
+name = "omsai"
 print(name)
-age = 21
+age = 20
 print(age)
 is_student <- TRUE
 
@@ -325,6 +325,7 @@ ggplot(top_10,aes( x = reorder(Name, -SR), y = SR)) +
 
 #Q6)
 cor(batting_bowling_ipl_bat$HF, batting_bowling_ipl_bat$Runs, use = "complete.obs")
+
 
 
 
